@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657431924051",
+    "project_id": "decay-2e06e",
+    "storage_bucket": "decay-2e06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657431924051:android:b46007a740597d578ee5a6",
+        "android_client_info": {
+          "package_name": "com.example.decay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657431924051-5jqhh39m0uj33pmjvn9crqtqoe8atik6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWBX-nAvRE4M-Eu9vvKmUiljQfmdXBIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657431924051-5jqhh39m0uj33pmjvn9crqtqoe8atik6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
